@@ -1,0 +1,3 @@
+This line is intended to write only in a non existed file.
+If tried to run this, you will get FileExistsError
+Because I alread run it and the file already existed

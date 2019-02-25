@@ -1,0 +1,1 @@
+This line is intended to write only in a non existed file.

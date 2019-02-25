@@ -1,0 +1,30 @@
+1. Make array where appending and popping is ok on both sides
+2. Get n largest/smallest element of the array
+3. Get n largest/smallest elements of the array of dicts
+4. Get subset of the dictionary based on some conditions
+5. Sort the dictionary based on the key/value
+7. Create dictionary whose default value is 99
+8. Create dictionary that keeps elements in order of the entrance to the dictionary
+9***. Get min/max of the dict based on the key/value
+10. Get common keys found in both the dict1 and dict2
+11. Count how many times each element found inside a string/array
+12. Filter only the evens of the array
+13. Add up all elements of the array
+14. Given a string, create and array of characters
+15. Check if string starts/ends with certain symbols
+16. Cut off sth from string beginning or end or both sides
+17. Change string to array, and array to string
+18. How to add up to floating numbers without discrepancy
+19. Generate a random integer from 0 to 100
+20. Represent 2 days, 6 hours, 15 minutes, and 40 seconds
+21. Create iterator from an array, and Slice the iterator
+22. Exclude the first characters of some kind, and collect the rest--> DROPWHILE
+23. Use permutations and combinations
+24. Traverse thru array by enumerating starting from 1
+25. Make a dict using array1 as key and array2 as value
+26. Merge two already sorted arrays while the merged array remain sorted-->heapq
+27.??? Given an array of dicts, group them with the same city/state
+28. Read Entire File i) as a string ii) line by line
+    Write on a file by overwriting, write on a non existed file
+29. Collect only the unique elements of arr i) using set() ii) using dict.setdefault(k, v)
+30*****.How to make a counter class that also remembers the order in which it first found something.
